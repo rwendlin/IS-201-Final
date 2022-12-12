@@ -73,25 +73,6 @@ iframe{
 .Nav a:hover {
     background-color: violet;
 }
-#MarvelBanner{
-    width: 660px;
-    height: 237px;
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-}
-#SWBanner{
-    height: 237px;
-}
-#TWBanner{
-    height: 237px;
-    margin-right: 0px;
-}
-#banner{
-    align-items: center;
-    width: 100%;
-    margin: 0%;
-}
 #tableau{
     position: relative;
 }
