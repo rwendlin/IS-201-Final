@@ -1,0 +1,97 @@
+body{
+    background-color:#5de7f4;
+    color: #333;
+    font-family: cursive;
+}
+#Headshot{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,
+h2
+{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    font-size: large;
+}
+#tabp{
+    text-align: center;
+}
+#HobColumn{
+    column-count: 2;
+    column-width: 300px;
+    margin-left: 350px;
+    
+}
+.HobSub{
+    font-weight: bold;
+    font-size: x-large;
+}
+.Topics{
+    font-weight: 100;
+    background-color: #5de7f4;
+}
+iframe{
+    width: 65%;
+    height: 465px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#YoutubeP{
+    width: 65%;
+    margin: auto;
+    font-size: large;
+}
+#NavBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+}
+  
+.Nav {
+    float: left;
+}
+  
+.Nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 8px;
+    text-decoration: none;
+}
+.Nav a:hover {
+    background-color: violet;
+}
+#MarvelBanner{
+    width: 660px;
+    height: 237px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+#SWBanner{
+    height: 237px;
+}
+#TWBanner{
+    height: 237px;
+    margin-right: 0px;
+}
+#banner{
+    align-items: center;
+    width: 100%;
+    margin: 0%;
+}
+#tableau{
+    position: relative;
+}
